@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Wayland Mirror
+Comment=GUI tool for mirroring screens on Wayland
+Exec=python3 /opt/wayland-mirror/wayland-mirror.py
+Icon=video-display
+Terminal=false
+Type=Application
+Categories=Utility;Settings;DesktopSettings;
+Keywords=wayland;mirror;display;screen;wlr-randr;wl-mirror;
